@@ -1,0 +1,38 @@
+{
+  "name": "etvelit",
+  "version": "1.0.0",
+  "description": "Curried TypeScript type guards for primitive types and classes",
+  "keywords": [
+    "est",
+    "est",
+    "type",
+    "labore",
+    "maxime",
+    "isNumber",
+    "aperiam",
+    "isSymbol",
+    "isNull",
+    "isUndefined",
+    "nihil",
+    "isNonPrimitive",
+    "is",
+    "isLike",
+    "isArrayOf",
+    "error"
+  ],
+  "author": "CandaceSipes",
+  "license": "MIT",
+  "homepage": "https://github.com/LurlineKlein/etvelit.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LurlineKlein/etvelit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LurlineKlein/etvelit.git/issues"
+  },
+  "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
